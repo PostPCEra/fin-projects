@@ -9,3 +9,6 @@ $ pip install -r requirements.txt   # will install in lib/python<ver>/site_packa
 $ pip show <pkg-name>  # will show details ex..  'pandas' 
 ```
 see Readme.md of each sub project
+
+
+How-To: Building a Virtual [Python Environment](https://developer.akamai.com/blog/2017/06/21/how-building-virtual-python-environment)
