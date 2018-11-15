@@ -11,4 +11,4 @@ $ pip show <pkg-name>  # will show details ex..  'pandas'
 see Readme.md of each sub project
 
 
-How-To: Building a Virtual [Python Environment](https://developer.akamai.com/blog/2017/06/21/how-building-virtual-python-environment)
+How-To: Building a Virtual [Python Environment](https://developer.akamai.com/blog/2017/06/21/how-building-virtual-python-environment) : first build Virual env then GIT clone
