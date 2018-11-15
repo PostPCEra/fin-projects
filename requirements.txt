@@ -1,0 +1,5 @@
+jupyterlab
+pandas
+alpha_vantage
+numpy
+seaborn
