@@ -19,7 +19,7 @@
  c.NotebookApp.browser = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
  ```
  - 
- - 'CTRL-C' to stop jyper server    
+ - 'CTRL-C' to stop jyper server 
  - arrow keys on the board to move to nex CELL
  - up/down keys on TOP header of browser in notebook, to physically move CELLS
  - only LAST statement in the CELL print output, so have only ONE output per CELL
