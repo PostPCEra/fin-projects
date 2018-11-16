@@ -29,3 +29,4 @@ $ pip show <pkg-name>  # will show details ex..  'pandas'
 ### CONDA bases
 
 My Python Environment [Workflow with Conda](https://tdhopper.com/blog/my-python-environment-workflow-with-conda/) : if you want to use CONDA with 'NO PIP business' this seems the way
+    
