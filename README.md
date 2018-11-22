@@ -2,8 +2,8 @@
 
 
 ### Python 3 setup on a new Mac machine
-- 1. first install iTerm2 , Oh My Zsh by following exact steps on this post : [Jazz Up Your “ZSH” Terminal In Seven Steps  ](https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38)
-- 2. Install Python 3 on Mac OS X : [follow exact steps](https://wsvincent.com/install-python3-mac/) . You get 'virtualenv' as part of python3 install.
+- 1/ first install iTerm2 , Oh My Zsh by following exact steps on this post : [Jazz Up Your “ZSH” Terminal In Seven Steps  ](https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38)
+- 2/ Install Python 3 on Mac OS X : [follow exact steps](https://wsvincent.com/install-python3-mac/) . You get 'virtualenv' as part of python3 install.
 - these 2 steps are enough, no go to  'PIP based'
 
 - I did not follow the below , but just for reference:
@@ -12,7 +12,7 @@
 ### PIP based
 
 How-To: Building a Virtual [Python Environment](https://developer.akamai.com/blog/2017/06/21/how-building-virtual-python-environment) : 
-- 1. first build Virual env 
+- 1/ first build Virual env 
 
 ```
 $ virtualenv -p python3 finenv
@@ -20,7 +20,7 @@ $ source finenv/bin/activate
 
 ```
 
-- 2. do 'git clone <repo>'  from anohter 'TERMINAL' with out virual environment that will takecare
+- 2/ do 'git clone <repo>'  from anohter 'TERMINAL' with out virual environment that will takecare
 
 ```
 $ git clone <repo>
