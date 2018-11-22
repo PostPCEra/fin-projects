@@ -1,6 +1,13 @@
 # fin-projects
 
 
+### Python 3 setup on a new Mac machine
+- 1. first install iTerm2 , Oh My Zsh by following exact steps on this post : [Jazz Up Your “ZSH” Terminal In Seven Steps  ](https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38)
+- 2. Install Python 3 on Mac OS X : [follow exact steps](https://wsvincent.com/install-python3-mac/) . You get 'virtualenv' as part of python3 install.
+- these 2 steps are enough, no go to  'PIP based'
+
+- I did not follow the below , but just for reference:
+- Installing Development environment on macOS : well [maintained git repo](https://github.com/sb2nov/mac-setup) ,  web [site is here](https://sourabhbajaj.com/mac-setup/) , python [specific page](https://sourabhbajaj.com/mac-setup/Python/)
 
 ### PIP based
 
