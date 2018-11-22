@@ -26,7 +26,7 @@ $ source finenv/bin/activate
 $ git clone <repo>
 
 $ cd <repo-dir>
-$ pip install -r requirements.txt   # will install in lib/python<ver>/site_packages/<package-name> in the TOP LEVEL ENV Dir
+$ pip install -r requirements.txt   # will install in <finenv>/lib/python<ver>/site_packages/<package-name> in the TOP LEVEL ENV Dir
 
 $ pip show <pkg-name>  # will show details ex..  'pandas' 
 ```
