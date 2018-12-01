@@ -8,11 +8,12 @@
 
 
 ####  2. Jypypter notebook instructions
--  $ ./start-jupyter    # will start server, in this file first 2 lines are configs, last one starts server
+-  $ ./start-jupyter    # will start server, in this file first 2 lines are configs, last one starts server. These are taken from the post below.
 -
-
-- http://localhost:8888/nbextensions   # open browser /w URL will show all extensions [ blog post here](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
-- Enable the following Hinterland extension 
+- [Jupyter Notebook Tricks for Data Science that Enhance your efficiency](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
+-
+- http://localhost:8888/nbextensions   # open browser /w URL will show all extensions 
+- Enable the following Hinterland extension # 
 - Hinterland : Enable code autocompletion menu for every keypress in a code cell, instead of only enabling it with tab
 
 
