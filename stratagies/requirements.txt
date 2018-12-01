@@ -1,4 +1,6 @@
 jupyterlab
+jupyter_nbextensions_configurator
+jupyter_contrib_nbextensions
 pandas
 alpha_vantage
 numpy

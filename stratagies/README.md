@@ -8,7 +8,13 @@
 
 
 ####  2. Jypypter notebook instructions
- - $ jupyter notbook   # will start server & open browser notebook . you can be in any directory 
+-  $ ./start-jupyter    # will start server, in this file first 2 lines are configs, last one starts server
+
+- http://localhost:8888/nbextensions   # open browser /w URL will show all extensions [ blog post here](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
+
+
+ - $ jupyter notbook   #  this is to start without all the above extensions etc..
+ 
  -  paste in chrome browser http://localhost:8888/tree ( or URL displayed on Treminal when above cmd statred)
  - $ jupyter --paths   # show various paths jupyter is installed 
  - $ jupyter notebook --generate-config   # will generate config file ~/.jupyter/jupyter_notebook_config.py
